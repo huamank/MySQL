@@ -1,0 +1,1 @@
+Propuesta: crear índices en columnas de join y filtro (p.ej., order_items(product_id)) y filtrar por condiciones de negocio para reducir el conjunto de datos.
