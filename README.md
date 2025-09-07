@@ -1,5 +1,5 @@
 # Ruta SQL – Hazlo con Datos (MySQL)
-Este repositorio contiene datasets *dummy* y ejercicios de SQL para tu comunidad.
+Este repositorio contiene datasets *dummy* y ejercicios de SQL.
 
 ## Cómo empezar (local, MySQL)
 1. Asegúrate de tener MySQL instalado y habilitado `local_infile`.
